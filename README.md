@@ -1,5 +1,7 @@
 # Principles
-A Statement of Ethics and Principles for the Dukkhaless project
+A Statement of Ethics and Principles for the Dukkhaless project.
+
+If something seems to be missing, please create a pull request as a proposal.
 
 
 ## Inviolable Limits
